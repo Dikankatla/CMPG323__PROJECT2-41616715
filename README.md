@@ -6,7 +6,7 @@ The changes has been approved this file is now a "protect source" file.
 
 The NWU Tech Trends Telemetry API is a RESTful service designed to track the time and cost savings achieved by automations implemented by Tech Trends. This API allows for the creation, retrieval, updating, and deletion of telemetry data, as well as specialized endpoints for calculating cumulative savings by project or client.
 
-# List All Endpoints:
+## List All Endpoints:
 
 GET /api/telemetry: Retrieves all telemetry entries.
 
