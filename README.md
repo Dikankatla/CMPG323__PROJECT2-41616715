@@ -11,4 +11,8 @@ AZ-204: Implement API Management
 
 https://learn.microsoft.com/api/achievements/share/en-us/DikankatlaMathabatha-4948/8A9SQD8W?sharingId=2F07206C1CCD7A09
 
+Describe cloud service types
+
+https://learn.microsoft.com/api/achievements/share/en-us/DikankatlaMathabatha-4948/3Y6JMTUH?sharingId=2F07206C1CCD7A09
+
 
