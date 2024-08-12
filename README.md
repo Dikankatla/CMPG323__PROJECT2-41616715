@@ -21,3 +21,14 @@ DELETE /api/telemetry/{id}: Deletes a telemetry entry by ID.
 GET /api/telemetry/GetSavingsByProject: Retrieves cumulative time and cost savings for a project.
 
 GET /api/telemetry/GetSavingsByClient: Retrieves cumulative time and cost savings for a client.
+
+## Links
+
+Azure data base:
+
+nwutechtreads.database.windows.net
+
+
+API :
+
+https://apiproject2-dev.azurewebsites.net
